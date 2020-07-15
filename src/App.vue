@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nab/>
-    <HelloWorld msg="Welcome by andIts"/>
+    <HelloWorld msg="Welcome by andItss"/>
   </div>
 </template>
 
