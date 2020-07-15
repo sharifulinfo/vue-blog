@@ -1,18 +1,19 @@
 <template>
   <div id="app">
     <nab/>
-    <HelloWorld msg="Welcome by andItss"/>
+    <home/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue'
 import nab from './components/nav.vue'
+import home from './components/home.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,nab
+    nab,home
   }
 }
 </script>
