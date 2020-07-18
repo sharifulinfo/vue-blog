@@ -11,7 +11,7 @@
 
             <!-- Right aligned nav items -->
             <b-navbar-nav class="ml-auto">
-                <li class="nav-item"><a href="#" class="text-white">Hi</a></li>
+                <li class="nav-item"><a href="#" class="text-white">Hsi</a></li>
                 <li class="nav-item"><a href="#" class="text-white">Hi</a></li>
             </b-navbar-nav>
 

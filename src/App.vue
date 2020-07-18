@@ -1,25 +1,21 @@
 <template>
   <div id="app">
-    <nab/>
+    <nab class="mb-4"/>
     <div class="container">
-      <home/> 
-      <sliders>
-          <slide></slide>
-      </sliders>
+      <home/>
     </div>
   </div>
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 import nab from './components/nav.vue'
 import home from './components/home.vue'
-import sliders from './components/sliders.vue'
+
 
 export default {
   name: 'App',
   components: {
-    nab,home,sliders
+    nab,home
   }
 }
 </script>
